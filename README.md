@@ -30,4 +30,20 @@ git clone https://github.com/tu-usuario/mi-proyecto.git
 cd Kia-App
 ````
 
+### 2. Instalar dependencias y correr backEnd
+
+```bash
+cd   Kia-BackEnd
+npm i
+npm start
+````
+
+### 3. Instalar dependencias y correr frontEnd
+
+```bash
+cd  Kia-FrontEnd
+npm i
+npm run start
+````
+
 
